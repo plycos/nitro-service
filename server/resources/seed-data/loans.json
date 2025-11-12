@@ -1,0 +1,243 @@
+[
+  {
+    "id": "123456",
+    "type": "Conventional Fixed",
+    "currentBalance": 285000.00,
+    "interestRate": 6.75,
+    "nextPaymentDueDate": "2025-11-15",
+    "escrowBalance": 3500.00,
+    "feeBalance": 150.00,
+    "deferredBalance": 0.00,
+    "totalAmountDue": 2847.50,
+    "amountDueBreakdown": {
+      "principalAndInterest": 2125.00,
+      "escrow": 650.00,
+      "fees": 72.50,
+      "lateFees": 0.00
+    },
+    "propertyAddress": {
+      "street": "123 Main Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zipCode": "62702"
+    },
+    "paymentHistory": [
+      {
+        "paymentDate": "2025-10-15T14:30:00Z",
+        "effectiveDate": "2025-10-15",
+        "dueDate": "2025-10-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1250.00,
+          "interest": 875.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 285000.00
+      },
+      {
+        "paymentDate": "2025-09-14T10:15:00Z",
+        "effectiveDate": "2025-09-15",
+        "dueDate": "2025-09-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1245.00,
+          "interest": 880.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 286250.00
+      },
+      {
+        "paymentDate": "2025-08-15T09:45:00Z",
+        "effectiveDate": "2025-08-15",
+        "dueDate": "2025-08-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1240.00,
+          "interest": 885.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 287490.00
+      },
+      {
+        "paymentDate": "2025-07-15T11:20:00Z",
+        "effectiveDate": "2025-07-15",
+        "dueDate": "2025-07-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1235.00,
+          "interest": 890.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 288730.00
+      },
+      {
+        "paymentDate": "2025-06-15T13:10:00Z",
+        "effectiveDate": "2025-06-15",
+        "dueDate": "2025-06-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1230.00,
+          "interest": 895.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 289965.00
+      },
+      {
+        "paymentDate": "2025-05-15T10:35:00Z",
+        "effectiveDate": "2025-05-15",
+        "dueDate": "2025-05-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1225.00,
+          "interest": 900.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 291195.00
+      },
+      {
+        "paymentDate": "2025-04-15T14:50:00Z",
+        "effectiveDate": "2025-04-15",
+        "dueDate": "2025-04-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1220.00,
+          "interest": 905.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 292420.00
+      },
+      {
+        "paymentDate": "2025-03-15T09:25:00Z",
+        "effectiveDate": "2025-03-15",
+        "dueDate": "2025-03-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1215.00,
+          "interest": 910.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 293640.00
+      },
+      {
+        "paymentDate": "2025-02-15T12:05:00Z",
+        "effectiveDate": "2025-02-15",
+        "dueDate": "2025-02-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1210.00,
+          "interest": 915.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 294855.00
+      },
+      {
+        "paymentDate": "2025-01-15T10:40:00Z",
+        "effectiveDate": "2025-01-15",
+        "dueDate": "2025-01-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1205.00,
+          "interest": 920.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 296065.00
+      },
+      {
+        "paymentDate": "2024-12-15T15:15:00Z",
+        "effectiveDate": "2024-12-15",
+        "dueDate": "2024-12-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1200.00,
+          "interest": 925.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 297270.00
+      },
+      {
+        "paymentDate": "2024-11-15T11:55:00Z",
+        "effectiveDate": "2024-11-15",
+        "dueDate": "2024-11-15",
+        "totalAmount": 2847.50,
+        "type": "Regular Payment",
+        "allocations": {
+          "principal": 1195.00,
+          "interest": 930.00,
+          "escrow": 650.00,
+          "lateFees": 0.00,
+          "reserve": 0.00,
+          "forcePlacedInsurance": 0.00,
+          "fees": 72.50,
+          "other": 0.00
+        },
+        "principalBalance": 298470.00
+      }
+    ]
+  }
+]

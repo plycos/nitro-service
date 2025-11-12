@@ -1,0 +1,52 @@
+[
+  {
+    "id": "3fdc85df-1f9e-4bda-91f2-830c6a338a67",
+    "customerId": "123456",
+    "status": "active",
+    "firstName": "John",
+    "lastName": "Doe",
+    "addresses": [
+      {
+        "active": true,
+        "street": "789 Elm Street",
+        "city": "Springfield",
+        "state": "IL",
+        "zipCode": "62701"
+      },
+      {
+        "active": false,
+        "street": "456 Beach Road",
+        "city": "Miami",
+        "state": "FL",
+        "zipCode": "33139"
+      }
+    ],
+    "phoneNumbers": [
+      {
+        "active": true,
+        "number": "+1-555-0123",
+        "type": "home"
+      },
+      {
+        "active": false,
+        "number": "+1-555-9876",
+        "type": "mobile"
+      }
+    ],
+    "emails": [
+      {
+        "active": true,
+        "address": "john.doe@example.com",
+        "type": "business"
+      },
+      {
+        "active": false,
+        "address": "john.doe.personal@gmail.com",
+        "type": "personal"
+      }
+    ],
+    "loanIds": [
+      "123456"
+    ]
+  }
+]
