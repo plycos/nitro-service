@@ -56,3 +56,13 @@ docker compose down -v
 ```
 
 The `-v` flag removes volumes to ensure a clean shutdown.
+
+### Access Points
+
+Once the application is running, you can access:
+
+- **Nitro Service API**: `http://localhost:3030`
+  - To change the port, modify the `NITRO_PORT` environment variable in `docker-compose.yml`
+  - Try `http://localhost:3030/customers/me` to see a composite view of customer and loan data
+- **Cosmos DB Explorer**: `http://localhost:1234` - Web UI for browsing and managing Cosmos DB data
+- **Cosmos DB NoSQL API**: `http://localhost:8081` - API endpoint for direct Cosmos DB connections
